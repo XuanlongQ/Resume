@@ -4,8 +4,8 @@ A simple introduction for myself
 Xuanlong QIN(秦宣龙)
 
                                           Phone:    (+86)13728621870, CHINA
-                                            Email:  <1501213958@pku.edu.cn>
-                                               Blog: www.qinxuanlong.com
+                                            Email:  <xuanlong@pku.edu.cn>
+                                               Blog: https://xuanlongq.github.io/
 
 EDUCATION
 
