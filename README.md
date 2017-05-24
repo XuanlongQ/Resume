@@ -8,17 +8,16 @@ Xuanlong QIN(秦宣龙)
                                           Blog: https://xuanlongq.github.io/
 
 # EDUCATION
-* Peking University                                                                                          
-*Sept. 2015 - present*
+* Peking University                                                                                               *Sept. 2015 - present*
  School of Electronic & Computer Engineering
  M.Sc. in Computer Science, Candidate
  GPA: 87.13/100 Rank:
 
-* National Tsing Hua University                                                                          *April. 2017 – Nov. 2017*
+* National Tsing Hua University                                                                                *April. 2017 – Nov. 2017*
  Computer Science and Information Engineering
  Exchange Student  Supverised by Dr.nengfu Huang
 
-* China University of Mining and Technology                                                                 *Sept. 2011 - July 2014*
+* China University of Mining and Technology                                                                     *Sept. 2011 - July 2014*
  School of Information and Electrical  Engineering
  B.E. in Electronic Science & Technology
  GPA: 81/100            Rank:7/150
@@ -26,16 +25,16 @@ Xuanlong QIN(秦宣龙)
  English Level: CET-6    
 
 # INTERNSHIPS
-* The People’s Bank of Huaihai, Jiangsu                                                                     *July 2012 - Sept. 2013*
+* The People’s Bank of Huaihai, Jiangsu                                                                         *July 2012 - Sept. 2013*
  Volunteer.                                                                                                        Python，Word
  The activity of integrity.
  Use statistical software for data classification and collection.
  
-* Fengmei Group Co.Ltd., Jiangsu                                                                          *July 2013 - Sept. 2014* Production practice.  
+* Fengmei Group Co.Ltd., Jiangsu                                                                                *July 2013 - Sept. 2014* Production practice.  
  Encapsulation of electron component. 
  Equipment configuration under the mine operation.
 
-* BYD. Ltd., Wuxi，Jiangsu                                                                                 *Sept. 2014 - Oct. 2015*
+* BYD. Ltd., Wuxi，Jiangsu                                                                                      *Sept. 2014 - Oct. 2015*
  Practice.
  Understand the production process of BYD.
  Test electronic components with basic circuit of knowledge, using PCB to process electronic wires.
@@ -43,7 +42,7 @@ Xuanlong QIN(秦宣龙)
 
 # PUBLICATION
 
-* 1. High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree  HYPERLINK "javascript:void(0);" to  HYPERLINK "javascript:void(0);" receive/CCF conference).
+* 1. High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree to receive/CCF conference).
 
 * 2. High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
 
@@ -72,17 +71,20 @@ Xuanlong QIN(秦宣龙)
                                                                   
 
 # AWARDS & RECOGNITIONS
-The first scholarship, Peking University                                                                             2014-2015 
-Individual scholarships, China University of Mining and Technology                                                        2014
-The third scholarships,  China University of Mining and Technology                                                        2013
-The Second Prize of Physics Olympic                                                                                       2009
+
+The first scholarship, Peking University                                                                                     *2014-2015*
+Individual scholarships, China University of Mining and Technology                                                                *2014*
+The third scholarships,  China University of Mining and Technology                                                                *2013*
+The Second Prize of Physics Olympic                                                                                               *2009*
 
 # COMPUTER SKILLS
- Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
- Intermediate:Python
- Basic:Java
+Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
+Intermediate:Python
+Basic:Java
 
 # ADDITIONAL COMMENTS
 ## Laboratory Information
-* Studied and worked in the lab named CIRE(Center for Internet Research&Engineering)          2015-2018 Supervised by Dr.Li
-* Studied and worked in the lab named HSNL(High-Speed Networks Labs)              April.2017-Oct.2017 Supervised by Dr.Huang
+* Studied and worked in the lab named CIRE(Center for Internet Research&Engineering)                                         *2015-2018*
+ Supervised by Dr.Li
+* Studied and worked in the lab named HSNL(High-Speed Networks Labs)                                               *April.2017-Oct.2017*
+ Supervised by Dr.Huang
