@@ -29,7 +29,7 @@ English Level: CET-6  
 
 # Internships
 ### The People’s Bank of Huaihai, Jiangsu                                                                         
-*July 2012 - Sept. 2013* Python，Word
+*July 2012 - Sept. 2013*
 * Volunteer.                                                                                                        　
 - The activity of integrity.
 - Use statistical software for data classification and collection.
@@ -48,10 +48,10 @@ English Level: CET-6  
 - Design and produce amplifier with basic components, the both of which belong to the OSI model in the physical layer.
 
 # Publication
-* 1. High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree to receive/CCF conference).
-* 2. High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
- Computer Engineering & Software: Factor of influence: 1.388. 
- Rank (in computer science & automation field): 5
+* 1.High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree to receive/CCF conference).
+* 2.High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
+ - Computer Engineering & Software: Factor of influence: 1.388. 
+ - Rank (in computer science & automation field): 5
 
 # Projet Experience
 ### Cross Platform Application System  
@@ -91,7 +91,7 @@ English Level: CET-6  
 # Additional Comments
 ##Laboratory Information
 ### Studied and worked in the lab named CIRE(Center for Internet Research&Engineering)                                         
-*2015-2018*
+*Sep.2015-June.2018*
 * Supervised by Dr.Li
 ### Studied and worked in the lab named HSNL(High-Speed Networks Labs)                                               
 *April.2017-Oct.2017*
