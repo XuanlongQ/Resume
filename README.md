@@ -28,7 +28,7 @@ Xuanlong QIN(秦宣龙)
 English Level: CET-6    
 
 # Internships
-##　The People’s Bank of Huaihai, Jiangsu                                                                         
+### The People’s Bank of Huaihai, Jiangsu                                                                         
 *July 2012 - Sept. 2013* Python，Word
 　Volunteer.                                                                                                        　
 　The activity of integrity.
