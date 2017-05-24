@@ -9,18 +9,18 @@ Xuanlong QIN(秦宣龙)
 
 # Education
 ### Peking University [(PKU)](http://www.pku.edu.cn/)                                                                                            
-*Sept. 2015 - present*
+*Sept. 2015 - present.*
 * School of Electronic & Computer Engineering
 - M.Sc. in Computer Science, Candidate
 - GPA: 87.13/100            Rank:Null
 
 ### National Tsing Hua University [(NTHU)](http://www.nthu.edu.tw/)                                                                               
-*April. 2017 – Nov. 2017*
+*April. 2017 - Nov. 2017*
 * Computer Science and Information Engineering
 - Exchange Student
 
 ### China University of Mining and Technology [(CUMT)](http://www.cumt.edu.cn/)                                                                     
-*Sept. 2011 - July 2014*
+*Sept. 2011 - July. 2014*
 * School of Information and Electrical  Engineering
 - B.E. in Electronic Science & Technology
 - GPA: 81/100            Rank:7/150
@@ -29,13 +29,13 @@ English Level: CET-6  
 
 # Internships
 ### The People’s Bank of Huaihai, Jiangsu                                                                         
-*July 2012 - Sept. 2013*
+*July. 2012 - Sept. 2013*
 * Volunteer.                                                                                                        　
 - The activity of integrity.
 - Use statistical software for data classification and collection.
  
 ### Fengmei Group Co.Ltd., Jiangsu                                                                                
-*July 2013 - Sept. 2014* 
+*July. 2013 - Sept. 2014* 
 * Production practice.  
 - Encapsulation of electron component. 
 - Equipment configuration under the mine operation.
@@ -55,14 +55,14 @@ English Level: CET-6  
 
 # Projet Experience
 ### Cross Platform Application System  
-*Apr. 2015 - June 2015*
+*Apr. 2015 - June. 2015*
 * Team Member                                                                            
 - HTML5, Java
 - Research for cross-platform technology
 - Based on HTML5 framework. 
 
 ### Congestion Control for Large-Scale RDMA Deployment in Data Center and SDN                                     
-*Sept. 2015 – Mar. 2016*
+*Sept. 2015 - Mar. 2016*
 * Team Leader
 - C, (Java)
 - Research for several methods of congestion control in Ethernet
@@ -70,7 +70,7 @@ English Level: CET-6  
 - Achieve basic congestion avoid  
 
 ### Virtual Machine of Live Migration
-*July.2016 - present*
+*July.2016 - present.*
 * Team Leader  
 - C, Tcl
 - Propose two kinds of algorithm to improve the TCP transmission performance in Datacenter networks.
@@ -91,8 +91,8 @@ English Level: CET-6  
 # Additional Comments
 ## Laboratory Information
 ### Studied and worked in the lab named CIRE(Center for Internet Research&Engineering)                                         
-*Sep.2015-June.2018*
+*Sep. 2015 - June. 2018*
 * Supervised by Dr.Li
 ### Studied and worked in the lab named HSNL(High-Speed Networks Labs)                                               
-*April.2017-Oct.2017*
+*April. 2017 - Oct. 2017*
  * Supervised by Dr.Huang
