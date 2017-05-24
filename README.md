@@ -1,18 +1,18 @@
 # Resume
 A simple introduction for myself
-
+---
 Xuanlong QIN(秦宣龙)
 
                                           Phone:    (+86)13728621870, CHINA
                                             Email:  <xuanlong@pku.edu.cn>
-                                               Blog: https://xuanlongq.github.io/
+                                          Blog: https://xuanlongq.github.io/
 
 # EDUCATION
 * Peking University                                                                                          *Sept. 2015 - present*
 - School of Electronic & Computer Engineering
-- M.Sc. in Computer Science, Candidate
-- GPA: 87.13/100
-- Rank:
+-M.Sc. in Computer Science, Candidate
+-GPA: 87.13/100
+-Rank:
 
 * National Tsing Hua University                                                                          *April. 2017 – Nov. 2017*
 - Computer Science and Information Engineering
@@ -69,9 +69,9 @@ Configure common topo and multi-controller in SDN deployment
 Achieve basic congestion avoid  
 
 * Virtual Machine of Live Migration
-Team Leader                                                                                                                    July.2016 - present
+Team Leader                                                                                                        *July.2016 - present*
 Propose two kinds of algorithm to improve the TCP transmission performance in Datacenter networks.
-Finish the live migration model in NS2 network simulation and write an adaptive speed FTP generate file binding with TCP which uses CBR binding with UDP before.                                                C, Tcl
+Finish the live migration model in NS2 network simulation and write an adaptive speed FTP generate file binding with TCP which uses CBR binding with UDP before.                                                                                                         C, Tcl
                                                                   
 
 # AWARDS & RECOGNITIONS
