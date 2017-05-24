@@ -8,11 +8,11 @@ Xuanlong QIN(秦宣龙)
                                           Blog: https://xuanlongq.github.io/
 
 # EDUCATION
-* Peking University                                                                                          *Sept. 2015 - present*
-- School of Electronic & Computer Engineering
+* Peking University                                                                                          
+*Sept. 2015 - present*
+ School of Electronic & Computer Engineering
  M.Sc. in Computer Science, Candidate
- GPA: 87.13/100
- Rank:
+ GPA: 87.13/100 Rank:
 
 * National Tsing Hua University                                                                          *April. 2017 – Nov. 2017*
  Computer Science and Information Engineering
