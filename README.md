@@ -30,9 +30,9 @@ English Level: CET-6  
 # Internships
 ### The People’s Bank of Huaihai, Jiangsu                                                                         
 *July 2012 - Sept. 2013* Python，Word
-　Volunteer.                                                                                                        　
-　The activity of integrity.
-　Use statistical software for data classification and collection.
+* Volunteer.                                                                                                        　
+ The activity of integrity.
+ Use statistical software for data classification and collection.
  
 * Fengmei Group Co.Ltd., Jiangsu                                                                                *July 2013 - Sept. 2014* Production practice.  
  Encapsulation of electron component. 
