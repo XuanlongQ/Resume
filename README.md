@@ -8,18 +8,18 @@ Xuanlong QIN(秦宣龙)
                                           Blog: https://xuanlongq.github.io/
 
 # Education
-## Peking University [PKU](http://www.pku.edu.cn/)                                                                                            
+### Peking University [(PKU)](http://www.pku.edu.cn/)                                                                                            
 *Sept. 2015 - present*
 * School of Electronic & Computer Engineering
 - M.Sc. in Computer Science, Candidate
 - GPA: 87.13/100          Rank:
 
-## National Tsing Hua University [NTHU](http://www.nthu.edu.tw/)                                                                                
+### National Tsing Hua University [(NTHU)](http://www.nthu.edu.tw/)                                                                               
 *April. 2017 – Nov. 2017*
 * Computer Science and Information Engineering
 - Exchange Student
 
-## China University of Mining and Technology [CUMT](http://www.cumt.edu.cn/)                                                                     
+### China University of Mining and Technology [(CUMT)](http://www.cumt.edu.cn/)                                                                     
 *Sept. 2011 - July 2014*
 * School of Information and Electrical  Engineering
 - B.E. in Electronic Science & Technology
