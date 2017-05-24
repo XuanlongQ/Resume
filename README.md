@@ -9,21 +9,21 @@ Xuanlong QIN(秦宣龙)
 
 # EDUCATION
 * Peking University                                                                                          *Sept. 2015 - present*
-School of Electronic & Computer Engineering
-M.Sc. in Computer Science, Candidate
-GPA: 87.13/100
-Rank:
+- School of Electronic & Computer Engineering
+- M.Sc. in Computer Science, Candidate
+- GPA: 87.13/100
+- Rank:
 
 * National Tsing Hua University                                                                          *April. 2017 – Nov. 2017*
-Computer Science and Information Engineering
-Exchange Student  Supverised by Dr.nengfu Huang
+- Computer Science and Information Engineering
+- Exchange Student  Supverised by Dr.nengfu Huang
 
 * China University of Mining and Technology                                                                 *Sept. 2011 - July 2014*
-School of Information and Electrical  Engineering
-B.E. in Electronic Science & Technology
-GPA: 81/100           Rank:7/150
+- School of Information and Electrical  Engineering
+- B.E. in Electronic Science & Technology
+- GPA: 81/100            Rank:7/150
 
-English Level: CET-6   
+- English Level: CET-6    
 
 # INTERNSHIPS
 * The People’s Bank of Huaihai, Jiangsu                                                                     *July 2012 - Sept. 2013*
@@ -44,9 +44,9 @@ Design and produce amplifier with basic components, the both of which belong to 
 
 # PUBLICATION
 
-1. High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree  HYPERLINK "javascript:void(0);" to  HYPERLINK "javascript:void(0);" receive/CCF conference).
+* 1. High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree  HYPERLINK "javascript:void(0);" to  HYPERLINK "javascript:void(0);" receive/CCF conference).
 
-2. High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
+* 2. High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
 
 Computer Engineering & Software: Factor of influence: 1.388. 
 Rank (in computer science & automation field): 5
@@ -84,9 +84,9 @@ The Second Prize of Physics Olympic                                             
 
 
 # COMPUTER SKILLS
-Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
-Intermediate:Python
-Basic:Java
+* Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
+* Intermediate:Python
+* Basic:Java
 
 # ADDITIONAL COMMENTS
 * Laboratory Information
