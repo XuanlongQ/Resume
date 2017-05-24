@@ -81,7 +81,7 @@ English Level: CET-6  
 * The first scholarship, Peking University                                                                                  
 * Individual scholarships, China University of Mining and Technology                                                               
 * The third scholarships,  China University of Mining and Technology                                                              
-*　The Second Prize of Physics Olympic                                                                                             
+* The Second Prize of Physics Olympic                                                                                             
 
 # Computer Skills
 * Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
