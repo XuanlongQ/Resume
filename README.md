@@ -12,7 +12,7 @@ Xuanlong QIN(秦宣龙)
 *Sept. 2015 - present*
 * School of Electronic & Computer Engineering
 - M.Sc. in Computer Science, Candidate
-- GPA: 87.13/100          Rank:
+- GPA: 87.13/100            Rank:Null
 
 ### National Tsing Hua University [(NTHU)](http://www.nthu.edu.tw/)                                                                               
 *April. 2017 – Nov. 2017*
@@ -89,7 +89,7 @@ English Level: CET-6  
 * Basic:Java
 
 # Additional Comments
-##Laboratory Information
+## Laboratory Information
 ### Studied and worked in the lab named CIRE(Center for Internet Research&Engineering)                                         
 *Sep.2015-June.2018*
 * Supervised by Dr.Li
