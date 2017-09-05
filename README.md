@@ -54,12 +54,6 @@ English Level: CET-6  
  - Rank (in computer science & automation field): 5
 
 # Projet Experience
-### Cross Platform Application System  
-*Apr. 2015 - June. 2015*
-* Team Member                                                                            
-- HTML5, Java
-- Research for cross-platform technology
-- Based on HTML5 framework. 
 
 ### Congestion Control for Large-Scale RDMA Deployment in Data Center and SDN                                     
 *Sept. 2015 - Mar. 2016*
@@ -86,7 +80,6 @@ English Level: CET-6  
 # Computer Skills
 * Proficient:C/C++,  Matlab, Verilog,  FPGA , Assembly Language
 * Intermediate:Python
-* Basic:Java
 
 # Additional Comments
 ## Laboratory Information
@@ -95,4 +88,9 @@ English Level: CET-6  
 * Supervised by Dr.Li
 ### Studied and worked in the lab named HSNL(High-Speed Networks Labs)                                               
 *April. 2017 - Oct. 2017*
- * Supervised by Dr.Huang
+* Supervised by Dr.Huang
+
+---
+It loos like you are really interested in me,The following is my contact:
+[11,1011,011,0,1010,0000,01,1,00,000,1101,1001,0100,0,0100,0,11,0,10,1,110,00,1,0000,001,1000]
+
