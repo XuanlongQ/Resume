@@ -93,6 +93,5 @@ English Level: CET-6  
 ---
 It loos like you are really interested in me,The following is my contact:
 [11,1011,011,0,1010,0000,01,1,00,000,1101,1001,0100,0,0100,0,11,0,10,1]
-
-confirm message:[110,00,1,0000,001,1000]
+[1010,111,10,0010,00,010,11,11,1,000,000,01,110,0,110,00,1,0000,001,1000]
 
