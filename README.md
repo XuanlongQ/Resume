@@ -52,7 +52,7 @@ English Level: CET-6  
 * 2.High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
  - Computer Engineering & Software: Factor of influence: 1.388. 
  - Rank (in computer science & automation field): 5
- * 3. Early Notification and Dynamic Routing: An Improved SDN-based Optimization
+* 3. Early Notification and Dynamic Routing: An Improved SDN-based Optimization
 Mechanism for VM Migration, Collaborative Com , Xuanlong Qin, Dagang Li
 (Reviewing/CCF conference )
 
