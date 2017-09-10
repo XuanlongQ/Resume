@@ -50,8 +50,8 @@ English Level: CET-6  
 # Publication
 * 1.High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree to receive/CCF conference).
 * 2.High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
- - Computer Engineering & Software: Factor of influence: 1.388. 
- - Rank (in computer science & automation field): 5
+  - Computer Engineering & Software: Factor of influence: 1.388. 
+  - Rank (in computer science & automation field): 5
 * 3. Early Notification and Dynamic Routing: An Improved SDN-based Optimization
 Mechanism for VM Migration, Collaborative Com , Xuanlong Qin, Dagang Li
 (Reviewing/CCF conference )
