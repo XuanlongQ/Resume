@@ -1,9 +1,9 @@
 # Resume
 A simple introduction for myself
 ---
-Xuanlong QIN(秦宣龙)
+Xuanlong QIN
 
-                                          Phone:    (+86)13728621870, CHINA
+                                   
                                             Email:  <xuanlong@pku.edu.cn>
                                           Blog: https://xuanlongq.github.io/
 
@@ -50,8 +50,8 @@ English Level: CET-6  
 # Publication
 * 1.High Speed Data Transport Technology for Datacenter Networks, NCCA2016, Xuanlong Qin, Dagang Li (Agree to receive/CCF conference).
 * 2.Early Notification and Dynamic Routing: An Improved SDN-based Optimization
-Mechanism for VM Migration, Collaborative Com , Xuanlong Qin, Dagang Li
-(Reviewing/CCF conference ).
+Mechanism for VM Migration, Collaborative Com 2017, Xuanlong Qin, Dagang Li
+(Accepted/CCF C ).
 * 3.High Speed Data Transport Technology for Datacenter Networks, Computer Engineering & Software, Xuanlong Qin, Dagang Li (Accepted/Periodical). 
   - Computer Engineering & Software: Factor of influence: 1.388. 
   - Rank (in computer science & automation field): 5
